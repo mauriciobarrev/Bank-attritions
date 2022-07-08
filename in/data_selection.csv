@@ -11,7 +11,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 32,1677,6,3,1
 42,1467,5,3,1
 26,1587,6,2,1
-17,0,3,6,1
 33,1666,5,1,1
 29,680,5,2,1
 27,972,5,1,1
@@ -28,9 +27,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 23,1374,4,1,1
 40,1010,3,3,1
 18,0,5,2,1
-38,1362,6,0,1
 25,1811,3,2,1
-26,1690,2,5,1
 24,2517,4,1,1
 28,1490,5,2,1
 24,1696,6,2,1
@@ -107,7 +104,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 37,926,2,3,1
 21,931,6,1,1
 30,2440,5,2,1
-44,0,6,0,1
 31,1960,6,3,1
 32,1886,4,3,1
 21,865,5,3,1
@@ -117,7 +113,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 18,895,6,2,1
 36,1273,3,2,1
 25,1559,4,1,1
-24,1196,4,6,1
 38,1901,3,2,1
 13,1023,3,2,1
 29,1951,4,1,1
@@ -162,7 +157,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 28,1024,5,2,1
 31,1305,2,3,1
 38,2071,3,2,1
-24,2114,6,5,1
 28,1570,5,2,1
 30,1761,3,1,1
 29,746,4,1,1
@@ -200,8 +194,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 21,900,1,3,0
 22,1687,4,1,1
 42,866,5,3,1
-27,2006,4,5,1
-41,1632,4,5,1
 27,1679,3,2,1
 32,1468,4,2,1
 27,1580,3,2,1
@@ -312,13 +304,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 28,930,2,2,1
 33,1047,3,2,1
 29,0,5,2,1
-42,2223,5,6,1
 11,1381,2,3,0
 29,2154,2,3,1
 27,2169,5,3,1
 36,1912,4,2,1
 28,2070,4,2,1
-33,1539,5,5,1
 55,1297,4,2,1
 13,0,3,2,1
 22,1926,4,1,1
@@ -372,7 +362,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 27,793,3,3,1
 33,1799,5,3,1
 30,1521,6,2,1
-35,1411,3,5,1
 39,1403,4,2,1
 48,1586,6,3,1
 24,1766,6,3,1
@@ -385,7 +374,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 23,2381,4,3,1
 37,1576,6,3,1
 34,1980,3,2,1
-15,1547,2,5,0
 25,1617,3,3,1
 27,1915,6,1,1
 37,1480,3,2,1
@@ -403,7 +391,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 17,1120,3,3,0
 32,0,3,3,1
 47,2086,6,1,1
-28,2094,6,5,1
 37,2033,5,3,1
 18,0,3,3,0
 39,0,6,2,1
@@ -476,7 +463,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 54,1526,3,3,1
 25,0,3,3,0
 42,2235,5,3,1
-26,2362,6,6,1
 35,0,4,1,1
 35,2149,5,1,1
 51,1597,6,3,1
@@ -536,7 +522,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 22,0,1,2,0
 28,1466,5,3,1
 29,1692,6,3,1
-27,0,3,5,0
 39,1387,4,3,1
 28,0,6,3,1
 37,2517,3,1,1
@@ -563,13 +548,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 53,1728,5,3,1
 37,1999,6,1,1
 48,895,6,3,1
-17,0,2,5,0
 44,0,4,2,1
 36,2480,3,3,1
 29,1034,5,3,1
 16,2517,1,3,0
 45,1938,4,2,1
-58,1961,6,6,1
 36,1729,4,2,1
 23,1975,4,2,1
 59,960,4,1,1
@@ -591,7 +574,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 38,2252,3,1,1
 45,1378,4,1,1
 30,710,6,1,1
-37,1430,6,5,1
 21,0,3,4,0
 18,0,6,1,0
 54,0,6,2,1
@@ -604,7 +586,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 45,1113,3,3,1
 35,1853,6,2,1
 17,0,2,2,0
-60,1575,4,5,1
 29,0,4,1,1
 46,1185,3,2,1
 37,2104,4,2,1
@@ -739,7 +720,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 49,1197,4,3,1
 47,1274,5,2,1
 36,1472,4,1,1
-29,1967,4,6,1
 25,1864,5,1,1
 39,0,4,3,1
 35,1508,4,3,1
@@ -748,7 +728,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 45,1890,5,3,1
 31,1203,4,3,1
 30,1747,3,1,1
-35,2404,5,6,1
 42,2035,3,3,1
 61,2350,4,1,1
 15,2238,2,3,0
@@ -816,7 +795,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,0,3,1,1
 45,733,6,3,1
 28,350,2,3,0
-50,2134,4,5,1
 57,2265,3,3,1
 39,0,6,2,1
 58,1892,6,3,1
@@ -882,8 +860,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 25,0,3,2,0
 33,288,1,3,0
 31,1485,5,3,1
-54,1539,5,5,1
-36,0,6,6,1
 35,2206,6,3,1
 24,0,3,3,1
 27,0,2,1,0
@@ -912,7 +888,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,0,4,1,1
 69,1635,4,3,1
 49,962,5,2,1
-53,1873,4,5,1
 39,2431,5,1,1
 41,1176,5,2,1
 34,2024,5,1,1
@@ -973,7 +948,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,2517,6,2,0
 30,997,5,1,1
 38,1180,6,2,1
-33,2517,3,5,1
 35,1372,4,2,1
 35,1881,5,2,1
 38,1790,5,3,1
@@ -1001,7 +975,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 45,2146,3,1,1
 36,1081,5,3,1
 39,1880,5,3,1
-30,0,3,5,1
 22,2517,6,2,0
 37,2266,4,1,1
 24,916,2,2,0
@@ -1044,7 +1017,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 55,1725,5,1,1
 20,0,6,2,0
 15,2517,2,1,0
-43,2086,3,6,1
 21,0,3,2,0
 52,2145,5,2,1
 18,0,2,1,0
@@ -1105,7 +1077,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 40,1247,5,1,1
 42,1893,3,2,1
 65,0,4,3,1
-56,0,5,5,1
 43,2145,3,1,1
 61,1604,3,3,1
 40,1629,5,1,1
@@ -1183,7 +1154,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 30,1473,6,3,1
 50,1242,5,3,1
 88,1676,5,2,1
-46,794,6,6,1
 33,974,3,2,1
 35,0,4,2,1
 45,1279,3,1,1
@@ -1268,7 +1238,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,2517,6,1,1
 62,0,5,3,1
 32,2517,1,3,0
-40,0,5,6,1
 21,1142,5,3,1
 56,1609,5,2,1
 37,1624,3,3,1
@@ -1326,7 +1295,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 44,1600,3,3,1
 34,1655,6,3,1
 43,1997,6,1,1
-42,1252,4,5,1
 24,855,2,2,0
 48,1215,5,1,1
 34,1389,4,2,1
@@ -1335,7 +1303,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 33,1845,4,3,1
 42,1001,4,3,1
 43,708,5,1,1
-70,1601,3,6,1
 43,1161,4,3,1
 59,794,3,3,1
 51,1894,3,1,1
@@ -1385,7 +1352,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 49,0,5,1,1
 33,981,3,3,1
 44,1211,6,4,1
-44,1719,4,5,1
 30,2207,6,1,1
 37,1631,5,3,1
 67,1887,5,2,1
@@ -1449,7 +1415,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 46,1792,4,3,1
 37,0,5,3,1
 47,1589,5,3,1
-38,2076,4,5,1
 72,1540,3,1,1
 33,2457,5,3,1
 37,1173,4,3,1
@@ -1469,7 +1434,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 38,1536,3,3,1
 69,789,5,1,1
 41,0,5,3,1
-39,2018,5,0,1
 36,2415,4,3,1
 70,787,6,3,1
 55,0,3,3,1
@@ -1478,7 +1442,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 27,1695,4,1,1
 36,666,1,2,0
 43,890,6,3,0
-47,2013,5,5,1
 51,1049,6,1,1
 63,2057,4,2,1
 41,2517,4,2,1
@@ -1534,7 +1497,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 32,1381,6,3,1
 55,0,4,3,1
 62,1431,4,2,1
-58,2498,6,5,1
 68,514,4,1,1
 39,1272,4,2,1
 32,1384,4,1,1
@@ -1567,8 +1529,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 40,495,6,2,1
 44,0,5,2,1
 31,694,4,2,1
-30,0,6,6,1
-60,1655,5,6,1
 35,1586,4,1,1
 74,1278,4,3,1
 38,564,4,1,1
@@ -1644,8 +1604,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 35,0,5,3,1
 80,0,5,3,1
 54,1472,6,2,1
-31,0,6,6,1
-55,1628,6,5,1
 45,816,3,1,1
 41,2517,5,3,1
 14,511,4,4,0
@@ -1698,7 +1656,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 38,1261,4,3,1
 48,0,5,3,1
 68,1015,6,1,1
-47,2517,6,6,1
 73,1568,5,2,1
 39,1884,5,3,1
 71,844,5,1,1
@@ -1720,9 +1677,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 55,674,6,2,1
 51,2517,4,2,1
 85,0,4,4,1
-26,2517,3,0,0
 35,2159,4,3,1
-35,2379,4,6,1
 43,1904,4,3,1
 35,2154,3,2,1
 51,661,5,3,1
@@ -1793,7 +1748,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 46,2517,4,3,1
 25,1885,6,3,1
 53,1702,3,1,1
-23,812,1,5,0
 67,1364,5,3,1
 38,0,6,1,1
 56,2517,4,1,1
@@ -1819,7 +1773,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 51,1623,3,3,1
 25,0,5,1,0
 33,986,5,1,1
-32,1407,3,6,1
 57,1414,6,2,1
 35,1680,3,1,1
 66,1177,6,2,1
@@ -1829,7 +1782,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 26,2089,1,4,0
 37,1942,6,2,1
 34,1544,6,3,1
-27,0,3,6,0
 40,1190,6,3,1
 74,0,6,3,1
 45,1394,4,2,1
@@ -1886,7 +1838,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 37,2150,3,3,1
 83,1664,5,2,1
 38,1375,5,3,1
-48,0,4,6,1
 61,836,3,4,1
 63,0,6,3,1
 75,0,3,3,1
@@ -2059,7 +2010,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 46,0,4,1,1
 35,2517,6,3,1
 32,2517,4,3,1
-40,1046,6,6,1
 70,1577,6,1,1
 87,584,5,1,1
 47,1931,6,2,1
@@ -2080,7 +2030,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 30,1126,6,1,1
 38,1607,4,1,1
 80,1091,5,2,1
-38,1157,3,5,1
 26,1274,6,1,1
 75,2517,6,4,1
 41,0,5,1,1
@@ -2103,14 +2052,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 33,1830,5,2,1
 37,1244,4,2,1
 36,916,6,3,1
-71,0,3,6,1
 66,0,5,1,1
 46,2056,6,3,1
 32,1541,6,3,1
 26,1520,6,2,1
 31,0,3,3,0
 28,1616,5,2,1
-71,0,6,6,1
 30,2517,3,2,1
 61,1149,6,1,1
 43,2000,3,1,1
@@ -2123,9 +2070,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 45,1656,4,1,1
 35,0,3,4,0
 25,2517,4,2,1
-63,978,5,5,1
 62,1328,5,3,1
-25,1962,1,0,0
 68,0,4,2,1
 64,1118,4,2,1
 27,2517,3,2,1
@@ -2134,7 +2079,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,996,3,3,1
 36,1695,6,2,1
 65,0,3,1,1
-73,1533,3,5,1
 46,0,3,4,1
 28,2022,4,1,1
 58,1348,6,3,1
@@ -2166,7 +2110,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 54,770,3,2,1
 34,1640,5,1,1
 34,1392,3,1,1
-59,1188,5,6,1
 33,1424,5,1,1
 88,1453,6,1,1
 29,1736,3,3,1
@@ -2179,7 +2122,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 37,1794,5,3,1
 36,2156,6,1,1
 44,2130,3,3,1
-49,0,5,0,1
 53,1018,4,2,1
 59,0,4,3,1
 79,629,4,1,1
@@ -2254,7 +2196,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 32,1326,6,2,1
 77,0,6,3,1
 31,1118,4,1,1
-68,1810,3,5,1
 57,2069,4,3,1
 43,2092,4,1,1
 60,0,3,2,1
@@ -2436,7 +2377,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 36,2180,3,3,1
 83,1499,3,2,1
 29,2508,3,2,1
-63,704,3,6,1
 53,976,5,1,1
 41,1978,5,1,1
 48,1699,3,1,1
@@ -2454,7 +2394,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 73,1398,4,3,1
 63,2379,3,2,1
 54,2517,3,3,1
-66,906,4,6,1
 44,2155,3,3,1
 63,2101,5,1,1
 61,2497,3,3,1
@@ -2539,7 +2478,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 31,2517,6,1,1
 31,1664,5,2,1
 78,1745,4,2,1
-39,2517,5,6,1
 57,2429,5,1,1
 67,1266,4,1,1
 35,2517,4,4,0
@@ -2570,7 +2508,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 50,956,6,2,1
 23,1602,4,2,1
 76,1942,6,2,1
-75,2214,3,6,1
 38,2193,6,1,1
 29,1509,3,3,1
 69,2326,3,1,1
@@ -2618,7 +2555,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 67,1506,4,2,1
 61,1328,6,2,1
 71,0,3,3,1
-39,0,3,5,0
 47,1858,6,3,1
 74,1292,5,2,1
 76,0,6,2,1
@@ -2669,8 +2605,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 62,1950,5,2,1
 77,719,3,3,1
 77,1372,4,3,1
-33,1977,6,6,1
-39,0,3,0,0
 69,1090,3,2,1
 66,1020,5,3,1
 60,1338,6,1,1
@@ -2755,7 +2689,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 30,1389,5,4,1
 50,0,4,3,1
 52,2229,5,1,1
-79,1017,3,5,1
 76,0,3,2,1
 53,1629,3,3,1
 37,873,5,2,1
@@ -2784,7 +2717,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 60,1815,5,3,1
 85,1070,2,3,1
 45,1776,6,2,1
-46,651,2,6,0
 88,2398,6,2,1
 71,1179,6,2,1
 67,0,3,2,1
@@ -2798,7 +2730,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 37,1482,3,2,1
 68,926,6,1,1
 49,1473,3,1,1
-51,0,5,6,1
 68,1912,5,3,1
 74,0,6,2,1
 63,989,4,1,1
@@ -2845,7 +2776,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 81,1952,5,1,1
 77,1319,4,2,1
 57,0,6,1,1
-35,2099,4,5,1
 62,1116,6,3,1
 32,0,6,2,1
 40,0,3,4,0
@@ -2857,7 +2787,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 70,1480,3,3,1
 42,2230,4,3,1
 70,890,5,3,1
-60,1480,4,6,1
 88,1786,3,1,1
 66,0,6,1,1
 61,1716,6,3,1
@@ -2889,7 +2818,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 32,1348,6,2,1
 75,0,4,3,1
 85,1435,6,3,1
-71,0,4,6,1
 70,1551,4,1,1
 35,2517,2,3,0
 64,0,6,2,1
@@ -2921,7 +2849,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 70,2073,4,2,1
 64,778,6,3,1
 59,2010,6,2,1
-79,1569,5,5,1
 77,1945,3,2,1
 44,0,4,2,0
 73,945,5,2,1
@@ -2952,9 +2879,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 65,0,4,3,1
 66,1822,5,3,1
 71,2517,6,1,1
-42,2178,3,5,0
 62,1591,4,3,1
-32,477,3,6,0
 52,0,4,2,1
 77,1515,3,2,1
 76,688,4,2,1
@@ -2976,7 +2901,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 62,1187,4,2,1
 64,1749,3,2,1
 71,1508,3,1,1
-45,1966,3,6,1
 76,0,4,2,1
 84,582,4,2,1
 53,1657,6,1,1
@@ -2992,7 +2916,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 65,851,3,1,1
 72,1464,3,2,1
 59,0,3,1,1
-69,1123,5,5,1
 67,948,4,1,1
 57,1638,5,1,1
 40,1821,6,3,0
@@ -3142,7 +3065,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,2124,4,3,1
 73,2517,3,2,1
 67,1689,5,4,1
-43,0,6,5,1
 61,1778,4,1,1
 69,0,4,3,1
 77,1994,3,3,1
@@ -3165,7 +3087,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 84,1020,3,2,1
 43,2517,4,3,0
 69,1721,3,2,1
-65,1448,3,6,1
 23,1113,4,3,1
 35,0,2,4,0
 68,892,5,2,1
@@ -3204,7 +3125,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,1525,5,2,1
 58,1079,4,1,1
 41,580,2,2,0
-70,2517,3,5,1
 32,988,6,3,1
 71,1319,3,3,1
 62,0,5,1,1
@@ -3219,7 +3139,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 31,1421,4,1,1
 36,0,1,3,0
 67,660,5,3,1
-77,2517,4,6,1
 36,1054,5,3,1
 75,866,3,2,1
 68,845,4,3,1
@@ -3286,7 +3205,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 46,0,3,3,0
 42,0,2,3,0
 59,0,6,3,1
-60,1482,6,5,1
 63,0,3,3,1
 45,2517,3,3,0
 64,1284,6,1,1
@@ -3297,7 +3215,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,0,5,1,1
 67,0,4,1,1
 57,0,3,2,1
-72,1746,4,5,1
 76,1198,3,1,1
 58,995,6,3,1
 66,0,3,2,1
@@ -3310,7 +3227,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 67,0,3,3,1
 78,0,4,3,1
 37,0,5,3,0
-66,1202,3,5,1
 54,0,6,1,1
 77,1391,3,1,1
 65,1886,4,3,1
@@ -3331,7 +3247,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 61,0,5,3,1
 46,710,3,2,1
 66,0,3,2,1
-48,1531,5,6,0
 37,1042,5,3,1
 56,1029,4,1,1
 67,792,5,3,1
@@ -3374,9 +3289,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,1733,5,2,1
 71,1991,5,3,1
 56,1572,3,2,1
-63,2517,3,6,1
 42,0,2,3,0
-77,1902,6,5,1
 65,1288,6,2,1
 79,1204,6,2,1
 34,1281,3,3,1
@@ -3391,7 +3304,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,1860,4,2,1
 76,0,5,2,1
 61,947,4,2,1
-51,2247,4,5,0
 72,1067,3,2,1
 64,545,4,3,1
 54,868,6,3,1
@@ -3417,7 +3329,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 70,1698,4,2,1
 58,1422,5,3,1
 51,1405,5,3,1
-46,2517,1,5,0
 84,1819,6,1,1
 62,1491,6,3,1
 75,938,5,3,1
@@ -3466,7 +3377,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,0,5,2,1
 62,1153,6,2,1
 66,2100,3,3,1
-76,0,3,5,1
 50,1852,4,3,1
 71,1998,4,3,1
 76,0,5,3,1
@@ -3528,10 +3438,8 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 79,0,5,2,1
 42,0,6,1,0
 75,983,6,1,1
-62,1170,3,5,1
 63,838,5,1,1
 76,0,5,1,1
-53,759,6,6,1
 38,0,5,4,0
 68,1433,3,1,1
 69,1052,6,2,1
@@ -3566,7 +3474,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 75,1348,3,2,1
 70,1787,6,2,1
 79,1017,4,3,1
-73,716,4,6,1
 78,1321,4,2,1
 69,0,3,3,1
 75,1724,6,3,1
@@ -3589,7 +3496,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 37,0,4,3,0
 49,0,3,2,0
 49,0,3,3,0
-73,0,3,5,1
 81,1784,4,3,1
 72,1031,3,3,1
 74,804,6,2,1
@@ -3617,7 +3523,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 64,1330,5,2,1
 60,976,6,3,1
 49,552,3,2,0
-65,2517,3,5,1
 73,1031,5,3,1
 31,1537,3,1,1
 54,1182,5,2,1
@@ -3642,8 +3547,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 78,1017,5,3,1
 62,0,5,2,1
 63,1942,4,1,1
-76,1434,4,6,1
-78,1931,4,5,1
 76,2035,4,3,1
 63,0,5,3,1
 61,1909,3,1,1
@@ -3731,7 +3634,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 74,585,4,1,1
 87,1862,6,1,1
 68,2090,5,2,1
-39,2245,2,5,0
 67,1613,3,2,1
 71,1100,3,3,1
 82,2297,5,2,1
@@ -3746,7 +3648,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 79,1023,5,3,1
 56,755,4,1,1
 49,1519,3,4,1
-62,1758,6,5,1
 71,1830,6,1,1
 67,0,4,2,1
 70,1812,5,1,1
@@ -3763,9 +3664,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 72,1559,4,3,1
 72,1504,6,3,1
 70,1212,5,1,1
-36,2517,3,5,0
 84,1654,6,1,1
-51,655,3,5,0
 77,1077,3,2,1
 78,1152,4,1,1
 66,655,5,1,1
@@ -3853,7 +3752,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 35,1357,2,3,0
 71,1701,3,3,1
 68,2517,4,1,1
-64,1271,4,6,1
 40,2224,5,3,1
 64,1094,5,3,1
 80,1604,6,1,1
@@ -3934,12 +3832,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 69,0,6,3,1
 62,1501,4,1,1
 56,587,3,4,1
-46,859,3,5,0
 39,1008,3,4,0
 92,789,5,2,1
 73,1175,4,3,1
 76,0,4,3,1
-41,0,3,0,0
 72,0,6,2,1
 65,0,3,2,1
 68,1793,3,3,1
@@ -3967,9 +3863,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,1119,5,4,1
 75,1030,5,2,1
 81,0,6,2,1
-69,1823,6,6,1
 69,1110,3,1,1
-80,1247,6,6,1
 71,0,3,4,1
 68,0,3,3,1
 77,0,5,2,1
@@ -4031,7 +3925,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 79,0,4,2,1
 36,1933,2,2,0
 60,1172,6,1,1
-70,0,6,6,1
 53,0,3,3,1
 31,0,3,4,0
 69,0,6,2,1
@@ -4223,7 +4116,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 55,2258,6,3,1
 61,0,3,3,1
 72,1597,4,2,1
-38,0,3,0,0
 79,1353,4,2,1
 81,2382,3,1,1
 75,1716,3,1,1
@@ -4300,8 +4192,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 39,0,2,2,0
 73,0,5,3,1
 66,0,5,2,1
-72,1557,3,6,1
-42,0,5,0,0
 79,1725,6,2,1
 61,2403,6,3,1
 67,1690,4,2,1
@@ -4464,7 +4354,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,1160,4,2,1
 85,1551,6,1,1
 71,2039,5,1,1
-62,1059,6,5,1
 56,2158,5,2,1
 38,0,5,2,0
 57,1706,4,2,1
@@ -4477,7 +4366,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 86,1328,3,2,1
 69,0,5,3,1
 72,940,4,2,1
-69,754,6,5,1
 77,984,5,2,1
 75,1004,6,1,1
 75,2216,5,1,1
@@ -4510,7 +4398,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 74,1041,4,3,1
 66,2087,4,1,1
 45,1159,3,3,0
-42,0,5,0,0
 80,1646,4,3,1
 43,0,3,2,0
 72,1771,3,1,1
@@ -4542,7 +4429,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,1536,3,3,0
 40,0,2,3,0
 69,1229,3,1,1
-70,1621,3,6,1
 73,1278,3,3,1
 55,1687,4,1,1
 71,1455,4,3,1
@@ -4582,7 +4468,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 88,2090,4,2,1
 43,0,5,2,0
 87,701,3,3,1
-83,1983,6,6,1
 43,0,2,3,0
 40,1477,6,2,0
 88,1486,6,3,1
@@ -4593,13 +4478,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 77,0,3,1,1
 84,1969,3,2,1
 40,0,6,2,0
-89,1117,5,6,1
 59,975,3,3,0
 64,2080,4,3,1
 53,1561,5,2,1
 65,755,4,1,1
 69,1754,3,1,1
-86,1272,3,5,1
 74,1672,6,3,1
 83,1205,6,3,1
 41,0,3,3,0
@@ -4607,7 +4490,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,1258,4,3,1
 43,951,6,2,0
 63,1110,4,1,1
-75,0,6,5,1
 84,1513,5,3,1
 64,869,5,1,1
 68,1717,6,3,1
@@ -4620,7 +4502,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 63,0,5,2,1
 77,1336,6,2,1
 73,1048,3,3,1
-73,1473,6,6,1
 87,1175,3,1,1
 98,0,4,3,1
 39,0,5,2,0
@@ -4699,9 +4580,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 68,2137,5,2,1
 67,0,4,3,1
 32,0,3,3,0
-78,1147,5,0,1
 27,0,5,3,0
-80,1089,6,0,1
 83,0,5,1,1
 82,1288,5,2,1
 42,1791,2,2,0
@@ -4748,13 +4627,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,1596,5,1,1
 39,0,6,3,0
 28,2517,1,3,0
-63,1027,5,6,1
 68,0,4,1,1
 79,860,4,1,1
 86,0,4,3,1
 76,0,3,2,1
 43,0,5,2,0
-77,1404,6,6,1
 72,1001,6,3,1
 60,801,4,2,1
 62,849,5,2,1
@@ -4767,7 +4644,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 73,1367,6,3,1
 76,1190,3,3,1
 70,1657,3,1,1
-59,1115,6,6,1
 37,1862,4,1,1
 55,1935,6,3,1
 78,2183,5,2,1
@@ -4798,7 +4674,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 46,0,6,3,0
 68,1699,4,3,1
 65,1224,3,3,1
-65,2076,4,5,1
 56,1833,5,1,1
 67,0,6,3,1
 49,0,1,2,0
@@ -4839,7 +4714,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,1537,4,3,1
 51,0,6,3,0
 40,0,6,4,0
-75,1665,4,6,1
 70,1276,4,1,1
 76,771,5,3,1
 72,1307,3,3,1
@@ -4907,7 +4781,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 66,920,5,1,1
 66,1924,3,1,1
 93,0,6,1,1
-65,1888,5,6,1
 57,0,4,1,1
 72,916,3,2,1
 63,0,3,2,1
@@ -4919,7 +4792,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 64,0,5,2,1
 44,198,6,3,0
 83,1668,4,2,1
-84,0,3,6,1
 42,0,3,3,0
 72,1321,6,1,1
 71,773,3,2,1
@@ -4937,14 +4809,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,1864,3,1,1
 70,1257,6,2,1
 77,1640,3,1,1
-63,1303,5,5,1
 89,1646,6,3,1
 65,0,5,1,1
 43,0,3,2,0
 67,0,6,3,1
 57,796,3,3,1
 51,2306,5,2,1
-80,1341,3,5,1
 38,2517,6,2,0
 75,0,5,2,1
 38,979,6,3,0
@@ -5008,18 +4878,15 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 73,0,4,3,1
 84,0,5,1,1
 92,0,5,1,1
-51,471,3,6,0
 83,698,5,3,1
 61,1926,5,3,1
 57,1021,3,1,1
 63,1587,4,2,1
 69,797,4,3,1
 92,2034,3,3,1
-51,284,3,6,0
 75,0,6,2,1
 55,2517,3,2,0
 34,0,3,2,0
-77,668,4,5,1
 86,1093,4,1,1
 75,2378,5,1,1
 84,857,5,3,1
@@ -5027,7 +4894,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 36,0,4,2,0
 90,2218,4,2,1
 66,2517,3,3,1
-60,1226,3,5,1
 87,1747,6,2,1
 65,1039,4,3,1
 89,1464,6,3,1
@@ -5042,7 +4908,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 52,1687,5,1,1
 85,1087,3,3,1
 36,0,1,3,0
-44,0,5,5,0
 49,0,3,2,0
 67,2081,4,3,1
 56,0,3,3,1
@@ -5084,7 +4949,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 63,1119,3,2,1
 83,641,6,1,1
 35,2517,2,1,0
-40,0,4,6,0
 40,0,4,3,0
 54,1028,4,3,1
 69,816,3,3,1
@@ -5111,11 +4975,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 56,1606,5,3,1
 82,1187,6,2,1
 77,1219,3,3,1
-67,2065,5,5,1
 76,1987,4,3,1
 80,535,4,3,1
 46,0,3,2,0
-41,215,5,0,0
 46,2517,1,1,0
 79,2018,6,1,1
 71,2185,3,3,1
@@ -5144,7 +5006,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,228,3,3,0
 91,1549,6,3,1
 87,735,5,2,1
-80,2195,6,5,1
 72,814,5,2,1
 82,1514,3,3,1
 45,2199,4,2,0
@@ -5163,7 +5024,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 42,1002,2,2,0
 76,1307,3,2,1
 90,2150,4,1,1
-78,0,3,6,1
 39,0,3,2,0
 79,0,4,3,1
 50,786,3,1,1
@@ -5202,13 +5062,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,0,4,1,1
 76,1425,3,3,1
 70,1519,6,3,1
-80,1103,6,6,1
 88,0,3,3,1
 70,839,6,3,1
 75,1973,3,1,1
 82,1627,6,1,1
 56,0,5,1,1
-81,0,4,6,1
 100,1274,6,2,1
 79,0,3,4,1
 29,0,5,3,0
@@ -5244,18 +5102,13 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 88,0,5,3,1
 73,538,6,2,1
 74,743,4,2,1
-80,1539,3,5,1
 64,1596,6,3,1
 28,0,1,2,0
 88,2377,3,3,1
-68,1255,5,6,1
-70,1420,6,6,1
-39,0,1,0,0
 83,2517,3,3,1
 43,411,3,3,0
 92,1607,3,3,1
 82,0,3,3,1
-74,0,3,5,1
 60,0,2,1,1
 66,2022,6,3,1
 65,0,6,2,1
@@ -5287,7 +5140,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 65,949,4,2,1
 84,1151,3,3,1
 44,1411,5,3,0
-64,647,6,5,1
 78,0,3,2,1
 68,1811,4,1,1
 79,2031,3,2,1
@@ -5338,7 +5190,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 75,997,5,3,1
 75,604,3,1,1
 80,1445,3,2,1
-78,933,3,6,1
 80,901,3,2,1
 42,0,6,2,0
 84,1148,3,1,1
@@ -5362,7 +5213,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 81,0,4,3,1
 81,1903,6,1,1
 74,1228,5,3,1
-43,2422,4,5,0
 67,1165,6,2,1
 64,2060,4,3,1
 74,2217,4,2,1
@@ -5373,7 +5223,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 40,2080,5,2,0
 51,0,4,3,0
 72,921,4,1,1
-49,1835,6,6,1
 74,0,5,1,1
 84,1878,6,2,1
 67,0,4,2,1
@@ -5413,7 +5262,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 73,2209,6,1,1
 80,0,4,1,1
 42,0,6,3,0
-75,1041,5,5,1
 46,811,1,3,0
 81,1740,4,2,1
 83,0,4,2,1
@@ -5434,7 +5282,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,1028,5,1,1
 73,0,5,1,1
 81,780,5,3,1
-88,1972,5,6,1
 81,598,6,2,1
 43,901,2,3,0
 85,981,5,2,1
@@ -5585,19 +5432,16 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,862,4,1,1
 82,0,6,3,1
 58,683,6,3,1
-68,1413,4,5,1
 79,894,5,3,1
 38,2517,6,3,0
 81,1626,6,3,1
 78,681,5,3,1
 82,644,6,3,1
-54,0,4,0,0
 78,2180,4,3,1
 81,1084,4,3,1
 84,730,5,3,1
 83,1731,4,3,1
 84,2231,4,2,1
-76,1340,4,5,1
 40,1474,3,3,0
 69,1740,4,3,1
 89,0,6,3,1
@@ -5701,7 +5545,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 92,1569,6,3,1
 68,1841,6,1,1
 67,760,3,3,1
-69,2312,5,5,1
 91,1491,3,1,1
 74,2426,5,1,1
 82,0,5,3,1
@@ -5710,11 +5553,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 77,1433,5,3,1
 70,2093,3,1,1
 71,0,3,3,1
-43,0,5,0,0
 71,1711,3,2,1
 84,1289,4,2,1
 49,0,5,2,0
-78,0,4,5,1
 88,777,4,1,1
 64,1736,3,1,1
 88,1291,5,1,1
@@ -5756,12 +5597,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 74,1604,5,3,1
 81,1103,4,2,1
 76,1700,4,2,1
-43,0,3,6,0
 78,0,3,3,1
 82,0,6,2,1
 74,1886,5,3,1
 70,2082,3,3,1
-75,1218,3,5,1
 27,2434,5,2,0
 69,0,5,3,1
 31,0,3,2,0
@@ -5784,7 +5623,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,0,4,3,1
 55,1492,3,3,1
 83,2517,3,3,1
-87,0,3,5,1
 94,2517,3,3,1
 88,0,6,2,1
 71,1695,4,3,1
@@ -5821,14 +5659,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 61,1225,3,2,1
 80,606,3,1,1
 73,0,4,1,1
-74,1482,3,5,1
 38,1608,6,3,0
 79,2232,5,2,1
 64,0,4,2,1
 83,670,3,2,1
 73,1913,5,3,1
 63,0,5,2,1
-39,0,3,5,0
 69,0,3,2,1
 85,1794,6,3,1
 66,917,6,2,1
@@ -5880,7 +5716,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 44,0,3,3,0
 84,906,3,2,1
 74,1503,4,3,1
-67,1611,4,6,1
 48,0,4,3,0
 89,1761,4,2,1
 70,1478,6,3,1
@@ -5906,7 +5741,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 64,1176,6,1,1
 63,1786,4,1,1
 81,1356,3,1,1
-42,1735,3,5,0
 80,1499,3,1,1
 68,2517,6,3,1
 68,0,3,3,1
@@ -5924,7 +5758,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 58,0,5,2,0
 74,1026,4,1,1
 85,996,4,3,1
-36,0,2,6,0
 79,724,5,1,1
 66,0,5,1,1
 72,1151,6,2,1
@@ -5942,7 +5775,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,992,4,2,1
 44,0,4,2,0
 71,2024,4,3,1
-41,706,3,5,0
 75,1789,5,2,1
 85,2277,3,3,1
 78,0,6,3,1
@@ -5956,7 +5788,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 72,0,4,3,1
 74,1779,5,1,1
 79,1969,4,3,1
-69,1459,4,5,1
 31,0,2,3,0
 66,2147,5,2,1
 81,1996,6,3,1
@@ -5970,7 +5801,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 79,1587,3,3,1
 75,1259,5,2,1
 74,940,4,1,1
-75,1087,6,6,1
 81,642,6,1,1
 65,1917,6,3,1
 67,568,5,3,1
@@ -6022,7 +5852,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 64,1380,5,1,1
 47,2517,5,3,0
 76,1675,5,3,1
-81,0,6,6,1
 70,1322,6,1,1
 45,0,5,2,0
 85,0,3,3,1
@@ -6048,7 +5877,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,747,6,3,1
 73,2164,4,3,1
 73,0,3,1,1
-48,1926,3,0,0
 75,1977,3,2,1
 67,1342,3,3,1
 84,1313,5,3,1
@@ -6078,11 +5906,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 77,1506,3,2,1
 78,1689,3,2,1
 75,1658,3,1,1
-73,1395,5,6,1
 74,1325,5,3,1
 53,0,5,3,1
 42,0,3,3,0
-36,0,3,6,0
 84,1475,6,3,1
 46,1965,2,2,0
 60,1884,5,2,1
@@ -6104,12 +5930,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 78,1871,5,2,1
 56,2517,5,3,0
 77,1659,5,3,1
-78,727,5,6,1
 87,2488,3,1,1
 81,0,4,2,1
 88,1141,4,1,1
 75,1502,6,2,1
-75,1582,5,0,1
 36,0,1,2,0
 41,1530,5,3,0
 47,0,5,3,0
@@ -6130,7 +5954,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 61,1804,3,3,1
 78,1509,6,2,1
 87,0,6,2,1
-37,0,3,6,0
 82,0,5,3,1
 70,0,6,2,1
 78,2143,3,1,1
@@ -6161,7 +5984,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,450,5,4,0
 82,0,3,1,1
 75,2432,6,3,1
-81,0,3,6,1
 76,1196,3,3,1
 79,936,3,1,1
 75,0,5,1,1
@@ -6196,7 +6018,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 67,0,5,1,1
 43,950,1,3,0
 78,0,5,1,1
-82,1037,5,5,1
 59,1138,3,2,1
 87,0,6,2,1
 81,2074,5,2,1
@@ -6342,7 +6163,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,318,3,2,0
 66,761,4,3,1
 75,638,4,2,1
-84,1341,4,5,1
 83,1663,5,2,1
 43,0,5,3,0
 88,1269,4,1,1
@@ -6420,7 +6240,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 35,0,6,3,0
 41,0,5,2,0
 46,2425,4,3,0
-94,822,4,6,1
 66,1297,5,3,1
 87,1483,5,3,1
 68,0,6,2,1
@@ -6469,11 +6288,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 87,1101,5,2,1
 41,959,4,2,0
 42,0,6,2,0
-85,977,6,0,1
 93,0,5,3,1
 67,991,6,2,1
 59,582,4,2,1
-77,0,5,0,1
 81,1023,3,3,1
 35,599,6,2,0
 83,1642,3,2,1
@@ -6534,7 +6351,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 93,1541,4,3,1
 65,0,5,2,1
 41,2404,3,2,0
-49,2517,5,6,0
 67,2517,6,3,1
 68,1414,4,2,1
 84,685,4,2,1
@@ -6556,17 +6372,14 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 85,0,5,2,1
 84,2268,6,4,1
 84,0,6,1,1
-69,973,6,0,1
 68,1206,5,3,1
 37,0,2,3,0
 78,0,3,2,1
-38,0,3,5,0
 84,1966,6,3,1
 82,834,4,2,1
 54,0,5,2,0
 93,1760,3,4,1
 59,2122,3,2,1
-93,2176,4,5,1
 79,1902,6,4,1
 33,1431,4,3,0
 72,0,4,1,1
@@ -6580,11 +6393,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 49,1593,3,3,0
 73,1720,6,2,1
 51,503,5,3,0
-65,2397,5,6,1
 48,628,4,3,0
 39,0,5,3,0
 61,2220,6,2,1
-81,2214,3,6,1
 61,0,3,2,1
 81,0,4,3,1
 69,1307,5,2,1
@@ -6596,7 +6407,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,0,5,1,1
 70,0,6,3,1
 76,995,4,1,1
-79,1445,3,0,1
 50,2517,5,3,0
 77,1472,6,2,1
 87,0,3,3,1
@@ -6604,8 +6414,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 42,691,5,3,0
 32,0,3,2,0
 35,1958,3,4,0
-93,1204,3,0,1
-53,0,1,5,0
 82,0,3,2,1
 84,833,6,2,1
 74,1687,3,2,1
@@ -6646,15 +6454,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 44,0,6,3,0
 93,1736,6,3,1
 80,812,4,3,1
-63,1633,4,0,1
 68,2517,3,3,1
 68,2517,5,2,1
 37,2517,4,2,0
 83,1800,6,2,1
-83,0,4,5,1
 66,808,5,1,1
 86,2185,6,3,1
-88,834,3,6,1
 70,656,5,2,1
 46,0,4,3,0
 79,726,5,2,1
@@ -6662,12 +6467,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,0,4,2,0
 63,883,3,1,1
 70,2121,5,1,1
-40,0,3,0,0
 38,0,6,4,0
 87,2517,3,1,1
 70,1297,3,3,1
 64,2517,5,3,0
-63,682,4,0,1
 98,0,3,1,1
 83,2495,5,3,1
 34,0,6,2,0
@@ -6682,7 +6485,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 74,0,4,3,1
 79,1379,4,4,1
 82,0,5,3,1
-73,1359,4,6,1
 43,1030,3,3,0
 71,0,5,2,1
 73,955,6,3,1
@@ -6741,19 +6543,14 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 35,0,6,3,0
 73,0,3,2,1
 90,666,3,3,1
-69,0,3,5,1
 45,0,6,3,0
 61,1952,3,4,1
-91,2412,4,5,1
-93,0,4,5,1
 77,900,4,1,1
-69,1871,6,5,1
 71,863,6,4,1
 68,1127,4,3,1
 74,0,5,3,1
 64,918,5,2,1
 67,1162,5,4,1
-86,2517,5,5,1
 75,1716,5,3,1
 66,0,3,2,1
 85,1216,5,4,1
@@ -6761,40 +6558,26 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 78,1240,5,4,1
 68,2005,5,4,1
 51,0,4,2,0
-74,621,3,5,1
 52,2076,6,3,1
 41,0,4,3,0
-81,2517,6,5,1
-72,859,4,5,1
 67,1528,6,3,1
-83,728,4,5,1
 72,0,5,4,1
 48,0,4,4,0
 82,1431,6,4,1
 89,996,4,3,1
 64,666,3,4,1
-80,874,6,5,1
-78,1055,3,5,1
-88,2162,6,5,1
 70,0,5,3,0
 52,662,5,3,0
-76,1251,5,5,1
-77,1028,6,5,1
 82,1328,4,4,1
 73,1979,4,3,1
 44,910,3,3,0
-59,749,3,5,1
 46,2517,3,2,0
 66,2094,3,3,1
 66,1044,6,4,1
-76,0,6,5,1
 82,2366,4,3,1
 33,0,5,2,0
-82,1223,6,5,1
 76,1325,5,3,1
-81,2387,3,5,1
 79,1688,3,4,1
-86,0,5,5,1
 79,0,5,3,1
 69,1197,4,2,1
 87,738,5,3,1
@@ -6805,37 +6588,29 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,0,5,4,1
 75,1699,4,4,1
 99,1250,3,3,1
-84,829,3,5,1
 67,1117,6,3,1
 73,0,4,2,1
-53,1546,4,5,1
 47,0,1,3,0
 67,2387,5,3,0
 60,0,3,1,1
-74,771,5,5,1
 83,636,6,4,1
 86,1201,6,3,1
 75,1828,4,2,1
 88,2374,5,4,1
-73,0,5,5,1
 71,850,4,3,1
 84,2020,5,3,1
 81,992,6,4,1
 44,0,1,2,0
-73,1156,6,5,1
 85,2025,5,1,1
 65,1686,6,1,1
 40,0,5,3,0
 86,1693,5,4,1
-84,0,5,5,1
 65,1944,6,4,1
 74,0,6,2,1
 88,1369,3,3,1
 74,1446,4,4,1
 80,1382,3,3,1
-87,1224,4,5,1
 92,867,3,3,1
-84,2517,4,5,1
 80,0,4,1,1
 62,2235,4,4,1
 60,813,4,2,0
@@ -6846,25 +6621,20 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 72,1694,4,4,1
 62,0,6,2,1
 66,1067,5,3,1
-58,1355,6,5,1
 43,1689,4,2,0
 66,1019,5,3,1
-78,0,5,5,1
 92,0,5,3,1
 78,0,6,3,1
 65,689,6,2,1
 73,1925,5,4,1
 85,848,6,3,1
-79,0,5,5,1
 81,986,5,4,1
 78,1591,4,3,1
 38,0,5,2,0
 89,1414,4,4,1
 55,0,6,3,0
 46,0,6,3,0
-67,1169,4,5,1
 52,0,5,2,0
-72,0,4,5,1
 81,0,6,2,1
 69,2217,3,3,1
 43,0,4,4,0
@@ -6872,12 +6642,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,0,3,2,0
 47,0,6,3,0
 90,2215,3,3,1
-52,1286,5,5,1
 89,2517,6,1,1
-79,0,4,5,1
-81,0,3,5,1
-89,1649,3,5,1
-62,1030,5,5,1
 81,1811,4,4,1
 79,1154,6,4,1
 68,0,4,2,1
@@ -6890,12 +6655,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 87,2007,4,3,1
 67,1774,6,4,1
 65,2013,6,3,1
-42,546,3,5,0
 83,1256,3,4,1
 53,1384,3,2,0
 80,0,5,2,1
 40,0,5,2,0
-62,876,6,5,1
 79,1258,6,3,1
 70,1059,5,1,1
 82,468,5,4,1
@@ -6906,7 +6669,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 74,1620,5,2,1
 69,780,6,2,1
 81,1249,4,2,1
-45,287,4,5,0
 77,2517,4,3,1
 81,831,4,3,1
 90,1638,6,2,1
@@ -6936,7 +6698,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 88,0,6,4,1
 59,0,5,2,0
 90,1033,3,4,1
-87,1616,5,6,1
 87,2185,5,4,1
 69,2154,3,1,1
 78,1630,6,4,1
@@ -6973,7 +6734,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 49,0,6,4,1
 66,0,3,2,1
 32,1992,6,2,1
-84,0,6,6,1
 81,1388,4,3,1
 59,0,5,2,1
 54,1400,3,3,1
@@ -7005,7 +6765,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,1750,6,4,1
 72,1352,5,2,1
 81,1971,4,4,1
-73,821,5,6,1
 76,1986,4,3,1
 76,1133,6,1,1
 45,0,4,3,0
@@ -7023,7 +6782,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 30,0,5,3,0
 78,1329,6,2,1
 77,1045,5,2,1
-73,1560,5,6,1
 84,1095,3,2,1
 79,0,3,2,1
 86,2200,5,1,1
@@ -7045,7 +6803,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 84,2517,4,2,1
 74,1419,3,1,1
 79,642,5,3,1
-79,890,4,5,1
 40,850,6,2,0
 64,2277,3,1,1
 90,1434,3,2,1
@@ -7064,7 +6821,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 87,1639,3,2,1
 30,1446,5,3,0
 65,2517,3,1,1
-40,0,2,6,0
 71,1308,6,3,1
 67,1123,5,3,1
 78,793,5,1,1
@@ -7074,7 +6830,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,1329,3,4,1
 46,605,5,3,0
 48,913,5,3,0
-82,0,3,5,1
 71,1586,3,2,1
 80,0,4,3,1
 77,1105,5,3,1
@@ -7109,13 +6864,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 62,1658,4,4,1
 79,0,6,4,1
 70,989,3,2,1
-78,1436,5,6,1
 38,0,2,3,0
 66,0,6,2,1
 47,0,3,3,0
 79,1335,5,3,1
 68,1221,6,4,1
-80,1581,6,5,1
 61,1597,3,1,1
 39,2517,4,2,0
 72,1594,4,2,1
@@ -7144,7 +6897,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 81,0,3,1,1
 39,2517,1,3,0
 73,0,4,4,1
-81,0,5,5,1
 75,0,4,2,1
 90,1733,6,3,1
 84,1347,5,2,1
@@ -7209,7 +6961,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 22,214,1,3,0
 55,2012,4,3,1
 86,1495,6,3,1
-82,1664,5,5,1
 103,2081,3,4,1
 92,694,5,2,1
 75,1336,4,3,1
@@ -7260,7 +7011,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 62,682,5,3,1
 76,807,6,2,1
 88,1599,3,3,1
-71,1682,6,5,1
 50,1868,1,4,0
 86,1073,4,4,1
 45,725,4,3,0
@@ -7304,7 +7054,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,537,6,1,1
 69,927,4,3,1
 85,1146,6,3,1
-79,1310,4,6,1
 68,913,3,3,1
 47,577,4,2,0
 73,2231,5,4,1
@@ -7386,7 +7135,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 32,1720,4,3,0
 71,1584,5,2,1
 88,0,6,4,1
-49,0,6,5,0
 88,2048,6,3,1
 87,1018,4,1,1
 42,744,4,3,0
@@ -7423,7 +7171,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 47,0,3,3,0
 67,730,6,1,1
 75,1852,3,2,1
-72,2440,3,6,1
 87,748,5,2,1
 83,1782,3,2,1
 76,1856,6,1,1
@@ -7536,7 +7283,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 68,0,4,2,1
 81,1373,3,3,1
 74,1832,6,1,1
-84,1878,4,6,1
 96,764,5,2,1
 77,1566,3,3,1
 84,913,6,4,1
@@ -7544,7 +7290,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 84,0,3,2,1
 77,869,6,2,1
 48,2517,3,3,0
-93,0,4,5,1
 82,0,3,1,1
 83,2034,3,3,1
 69,0,3,3,1
@@ -7588,11 +7333,9 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 30,731,3,3,0
 76,1235,6,2,1
 81,2517,4,2,1
-87,0,4,6,1
 70,0,6,3,1
 84,2356,6,3,1
 87,2517,6,2,1
-60,2517,6,5,1
 56,0,3,2,0
 80,0,4,4,1
 74,729,5,3,1
@@ -7615,7 +7358,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 45,0,4,2,0
 81,2203,6,2,1
 78,1928,6,3,1
-77,2440,6,6,1
 75,979,5,3,1
 48,0,3,3,0
 82,1437,5,1,1
@@ -7713,7 +7455,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 44,868,3,3,0
 67,1898,4,3,1
 88,2517,4,1,1
-89,0,5,5,1
 78,2517,4,3,1
 39,2189,3,3,0
 41,2517,4,3,0
@@ -7787,7 +7528,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 80,2517,3,1,1
 37,0,2,2,0
 76,1540,3,1,1
-85,1907,2,6,1
 73,0,3,1,1
 81,2482,2,3,1
 89,2517,3,2,1
@@ -7805,14 +7545,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 31,0,2,2,0
 79,630,2,3,1
 78,1724,2,1,1
-37,0,2,5,0
 69,2163,3,3,1
 79,0,3,1,1
 79,1621,3,2,1
 51,0,3,3,0
 48,0,2,3,0
 61,0,2,1,1
-85,1392,2,5,1
 75,0,2,3,1
 70,1495,3,2,1
 77,2296,3,3,1
@@ -7835,7 +7573,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 62,923,3,2,1
 61,1290,3,3,1
 34,0,4,3,0
-44,2176,3,5,0
 80,794,2,3,1
 75,1396,3,3,1
 81,965,3,3,1
@@ -7873,7 +7610,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 86,859,2,3,1
 83,0,1,2,1
 87,1122,2,2,1
-81,1419,1,6,1
 88,820,1,2,1
 63,1582,2,2,1
 70,2015,1,2,1
@@ -7994,7 +7730,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 80,1081,1,2,1
 78,1734,2,3,1
 87,1430,2,3,1
-48,0,1,5,0
 48,0,2,3,0
 39,0,5,2,0
 32,2517,2,2,0
@@ -8064,14 +7799,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 66,0,3,1,1
 52,0,3,3,0
 79,0,6,1,1
-41,0,3,6,0
 69,0,4,3,1
 43,897,6,2,0
 53,2039,2,2,1
 60,1333,6,3,1
 91,0,5,3,1
 80,1163,2,2,1
-76,0,1,5,1
 85,1149,2,1,1
 66,1429,1,2,1
 49,568,1,4,0
@@ -8097,7 +7830,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,1339,1,2,1
 80,1342,2,3,1
 86,0,2,1,1
-81,0,2,5,1
 75,1405,1,3,1
 70,1109,2,1,1
 88,1043,2,1,1
@@ -8124,7 +7856,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 43,191,1,3,0
 43,0,2,1,0
 85,2139,2,3,1
-61,965,5,6,0
 78,924,1,2,1
 84,642,2,1,1
 83,1817,2,3,1
@@ -8162,7 +7893,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 80,2349,1,2,1
 36,0,6,3,0
 91,771,1,3,1
-71,0,1,5,1
 84,2517,1,2,1
 94,1466,2,2,1
 63,1083,2,3,1
@@ -8198,8 +7928,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 89,0,1,2,1
 91,0,1,3,1
 87,2517,1,3,1
-48,330,5,5,0
-45,1166,6,6,0
 61,0,1,3,0
 63,0,4,2,0
 86,1272,2,2,1
@@ -8234,7 +7962,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,1007,1,1,1
 95,1687,2,3,1
 68,1398,2,3,1
-92,1523,1,6,1
 44,1348,6,3,0
 80,1545,2,2,1
 84,2098,2,3,1
@@ -8302,7 +8029,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 86,1601,2,3,1
 76,1504,2,3,1
 71,1578,2,1,1
-61,1313,1,5,1
 82,1158,1,3,1
 81,2359,2,3,1
 88,1663,2,2,1
@@ -8316,7 +8042,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 78,994,2,2,1
 42,2517,2,3,0
 80,587,2,3,1
-81,1057,1,6,1
 82,0,2,1,1
 51,0,2,3,0
 81,1892,1,4,1
@@ -8361,7 +8086,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 40,261,4,3,0
 39,2517,1,2,0
 84,0,2,2,1
-75,0,2,6,1
 80,0,1,2,1
 88,1950,1,2,1
 64,1103,1,2,1
@@ -8441,7 +8165,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 84,998,1,1,1
 75,0,1,3,1
 72,860,1,3,1
-57,0,1,0,0
 80,713,1,3,1
 87,0,2,3,1
 34,1631,6,2,0
@@ -8458,12 +8181,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 87,909,1,3,1
 86,0,1,3,1
 77,1017,1,3,1
-74,1649,1,6,1
 75,1156,1,3,1
 77,2511,1,2,1
 86,879,2,2,1
 83,0,1,1,1
-45,0,1,5,0
 70,834,1,2,1
 85,0,2,1,1
 46,0,2,3,0
@@ -8480,7 +8201,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 58,0,2,2,1
 82,0,2,1,1
 77,1954,2,1,1
-90,0,2,6,1
 87,2336,2,2,1
 87,2209,2,2,1
 74,2517,1,1,1
@@ -8489,7 +8209,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 80,0,2,2,1
 96,891,2,2,1
 70,0,2,3,1
-83,1588,2,6,1
 80,1426,1,3,1
 55,0,5,2,0
 80,0,2,2,1
@@ -8532,14 +8251,11 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 82,2517,1,1,1
 88,1927,1,2,1
 42,0,1,2,0
-92,0,1,5,1
 95,1198,2,3,1
 68,2414,1,3,1
 75,1819,2,1,1
-80,1375,2,5,1
 51,0,5,2,0
 58,1658,1,3,1
-91,0,2,6,1
 67,0,1,2,1
 86,1319,1,3,1
 50,0,1,3,0
@@ -8565,7 +8281,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 76,1660,2,2,1
 41,1116,1,2,0
 89,1365,1,2,1
-47,0,2,6,0
 38,2104,4,3,0
 54,2517,2,1,0
 70,0,1,2,1
@@ -8573,12 +8288,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,1334,2,3,1
 65,1834,1,3,1
 51,2517,2,3,0
-27,0,1,5,0
 78,2115,1,3,1
 54,0,6,4,0
 81,0,2,3,1
 87,1465,1,2,1
-83,2305,3,5,1
 70,1627,2,1,1
 94,841,2,3,1
 90,2517,3,1,1
@@ -8587,7 +8300,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 83,2517,3,1,1
 98,2435,3,1,1
 83,1544,3,3,1
-84,1158,3,6,1
 70,2201,2,2,1
 95,1478,3,2,1
 91,2216,3,3,1
@@ -8614,7 +8326,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 93,2082,2,2,1
 50,1919,2,3,0
 96,2347,2,3,1
-86,968,2,5,1
 84,1265,2,1,1
 87,2517,3,3,1
 83,0,3,2,1
@@ -8628,7 +8339,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 93,1192,3,2,1
 95,2451,3,3,1
 85,1848,3,2,1
-88,2119,2,5,1
 89,1744,2,2,1
 87,1925,3,2,1
 87,1803,3,3,1
@@ -8667,7 +8377,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 51,1273,2,3,0
 93,2253,2,2,1
 84,2077,3,3,1
-88,1346,3,6,1
 92,1334,3,4,1
 92,1324,2,1,1
 78,2142,3,1,1
@@ -8710,7 +8419,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 94,1020,2,2,1
 89,1699,2,1,1
 85,2278,1,3,1
-82,1412,1,5,1
 89,2035,2,3,1
 74,2389,1,2,1
 86,1635,2,2,1
@@ -8742,7 +8450,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 93,855,2,1,1
 80,1845,2,1,1
 86,1501,1,1,1
-82,1101,6,5,1
 88,1871,4,2,1
 85,1337,3,3,1
 96,0,2,1,1
@@ -8787,7 +8494,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 95,1631,2,3,1
 82,2452,2,3,1
 88,0,1,2,1
-53,1811,1,6,0
 83,686,2,1,1
 93,1816,2,3,1
 80,1544,2,3,1
@@ -8841,13 +8547,10 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 89,2507,2,2,1
 87,1898,1,2,1
 97,0,1,2,1
-82,1461,1,5,1
-81,1395,1,6,1
 94,2151,1,1,1
 80,837,1,4,1
 85,1054,2,2,1
 93,1950,1,3,1
-79,1991,2,5,1
 86,2507,1,2,1
 87,628,2,2,1
 89,1502,1,2,1
@@ -8920,9 +8623,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 86,2517,2,2,1
 80,913,2,3,1
 90,0,2,2,1
-97,928,2,5,1
 99,0,2,2,1
-93,1957,1,6,1
 85,1347,2,1,1
 95,1769,2,3,1
 99,1701,1,1,1
@@ -8958,7 +8659,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 109,1458,2,1,1
 94,1634,2,1,1
 91,2512,2,3,1
-50,0,1,5,0
 88,2184,2,1,1
 54,0,2,3,0
 87,1649,1,2,1
@@ -8975,7 +8675,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 86,2008,2,2,1
 89,2088,1,2,1
 93,696,1,1,1
-100,0,1,6,1
 97,1595,2,1,1
 98,1540,1,1,1
 98,1378,1,1,1
@@ -8983,7 +8682,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 98,2317,1,1,1
 79,1822,1,2,1
 92,1692,2,3,1
-93,1155,2,6,1
 91,2129,1,1,1
 92,1484,1,1,1
 87,2517,2,3,1
@@ -8993,7 +8691,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 88,1357,2,2,1
 54,1381,4,3,0
 106,1132,2,1,1
-99,1519,2,5,1
 94,1168,2,3,1
 88,768,1,3,1
 97,0,2,1,1
@@ -9027,7 +8724,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 95,1332,1,3,1
 73,2477,2,3,0
 60,0,4,3,0
-94,0,2,5,1
 88,1612,2,3,1
 103,0,2,2,1
 109,1643,1,3,1
@@ -9093,7 +8789,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 102,866,1,1,1
 100,2210,2,3,1
 95,1061,2,3,1
-103,2517,1,5,1
 111,1396,2,1,1
 105,2443,2,2,1
 63,0,5,3,0
@@ -9161,7 +8856,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 107,1472,2,3,1
 118,1620,1,3,1
 109,1618,2,1,1
-99,0,2,5,1
 56,0,1,2,0
 106,1025,1,3,1
 97,1930,1,2,1
@@ -9175,10 +8869,8 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 120,1745,1,2,1
 100,1384,1,3,1
 97,1528,1,3,1
-121,1290,2,5,1
 122,2517,2,1,1
 104,1198,2,2,1
-91,1713,2,5,1
 110,1648,1,2,1
 117,2252,2,3,1
 117,1174,2,2,1
@@ -9191,9 +8883,7 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 98,1252,1,1,1
 107,2123,2,3,1
 111,971,2,3,1
-109,994,2,6,1
 87,985,1,1,1
-39,0,5,5,0
 63,0,2,3,0
 117,1470,2,2,1
 114,0,2,1,1
@@ -9362,7 +9052,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 123,1042,1,2,1
 112,1512,2,2,1
 112,2517,1,2,1
-82,0,1,6,0
 118,1590,2,1,1
 108,1823,1,4,1
 103,0,2,3,1
@@ -9386,7 +9075,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 106,1974,2,3,1
 94,2517,2,2,1
 111,1729,1,2,1
-107,831,1,6,1
 60,0,4,2,0
 69,0,2,3,0
 102,0,2,1,1
@@ -9398,7 +9086,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 120,1800,2,1,1
 117,2417,2,3,1
 97,714,1,3,1
-96,1930,1,5,1
 87,0,1,2,0
 103,0,2,1,1
 106,1668,2,2,1
@@ -9498,7 +9185,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 113,0,1,2,1
 100,1229,1,3,1
 92,0,1,3,1
-124,1893,1,6,1
 116,0,2,3,1
 104,1969,1,2,1
 118,1530,2,2,1
@@ -9559,7 +9245,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 64,0,2,2,0
 85,2517,1,3,0
 114,1484,2,2,1
-128,2517,1,5,1
 61,1847,2,3,0
 102,1890,1,3,1
 128,1413,1,1,1
@@ -9568,7 +9253,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 69,0,5,3,0
 53,0,2,2,0
 121,1760,1,1,1
-87,859,2,5,0
 66,2517,2,1,0
 108,1378,2,1,1
 115,2114,2,3,1
@@ -9595,7 +9279,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 121,2517,2,1,1
 122,1456,2,2,1
 129,1273,1,3,1
-104,1216,2,6,1
 62,0,4,3,0
 105,2517,1,2,1
 69,0,2,3,0
@@ -9604,7 +9287,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 71,0,5,2,0
 116,734,2,1,1
 106,1734,1,3,1
-105,2517,2,6,1
 108,0,2,2,1
 99,1816,1,3,1
 118,1817,1,2,1
@@ -9632,7 +9314,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 107,939,3,1,1
 122,0,2,1,1
 76,2352,3,2,0
-71,0,1,0,0
 119,1355,2,1,1
 110,921,3,1,1
 123,990,3,2,1
@@ -9872,21 +9553,17 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 119,1687,2,1,1
 100,1613,3,3,1
 91,1264,4,1,1
-95,1642,5,5,1
 122,2286,4,1,1
 100,739,3,3,1
 122,0,2,2,1
 68,0,6,3,0
 90,0,1,3,1
-107,1563,3,5,1
 99,1936,2,1,1
 108,1835,4,3,1
 94,874,1,2,1
 67,2517,6,3,0
-105,0,4,5,1
 116,1984,3,1,1
 103,1556,5,3,1
-103,1230,4,5,1
 84,0,2,4,0
 70,531,2,3,0
 106,493,4,1,1
@@ -9897,7 +9574,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 102,892,4,3,1
 106,1640,3,3,1
 65,0,1,1,0
-58,0,2,5,0
 113,1652,3,3,1
 116,1850,2,2,1
 119,1981,3,3,1
@@ -9931,7 +9607,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 104,979,3,2,1
 115,0,4,3,1
 91,2048,5,3,1
-121,2311,3,6,1
 119,1941,4,3,1
 108,1173,4,3,1
 92,2045,3,1,1
@@ -9954,7 +9629,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 105,1460,3,3,1
 111,2043,4,3,1
 64,542,1,3,0
-107,2307,3,5,1
 121,2249,4,3,1
 125,0,5,1,1
 116,1453,6,2,1
@@ -9963,7 +9637,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 106,2305,4,1,1
 115,0,6,3,1
 57,0,1,2,0
-108,1749,4,5,1
 98,2205,3,1,1
 120,1101,5,1,1
 99,2070,6,3,1
@@ -10027,14 +9700,12 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 102,1482,4,2,1
 124,1160,3,1,1
 94,1175,5,1,1
-113,1184,6,5,1
 125,1399,3,2,1
 106,1784,4,2,1
 120,1307,3,1,1
 116,2127,5,3,1
 112,1643,4,1,1
 68,0,6,3,0
-119,1067,4,6,1
 126,1244,3,2,1
 105,779,3,3,1
 122,1285,5,1,1
@@ -10048,7 +9719,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 104,1912,3,2,1
 64,0,2,3,0
 58,1449,2,3,0
-117,0,3,5,1
 68,0,5,3,0
 69,2517,1,3,0
 70,534,4,2,0
@@ -10065,7 +9735,6 @@ Total_Trans_Ct,Total_Revolving_Bal,Total_Relationship_Count,Months_Inactive_12_m
 121,2517,4,2,1
 71,0,6,2,0
 58,821,1,2,0
-117,1736,3,6,1
 87,0,5,2,0
 105,1200,3,3,1
 115,1870,4,3,1
