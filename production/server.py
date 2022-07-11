@@ -1,5 +1,5 @@
 '''
-I'll apply the Machine Learning model into an API to use it on web (in this case in localhost).
+Applying the Machine Learning model into an API to use it on web (in this case in localhost).
 It generates the results of the model on JSON to work on different ways in production!
 '''
 
